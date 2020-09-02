@@ -21,5 +21,6 @@ public class Hello {
 public static void main(String [] args) {
 	printHeading();
 	System.out.println("Hello");
+	System.out.println("Hello World");
 	}
 }
